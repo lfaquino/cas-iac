@@ -13,3 +13,4 @@ resources:
     properties:
       name: public
       networkType: existing
+##
